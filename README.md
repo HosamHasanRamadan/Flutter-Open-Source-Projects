@@ -43,6 +43,11 @@ A list of big flutter projects
 - https://github.com/simplezhli/flutter_deer
 - https://github.com/cake-tech/cake_wallet
 - https://github.com/dart-lang/dart-pad
+- https://github.com/fluttertools/sidekick
+- https://github.com/RetroMusicPlayer/Paisa
+- https://github.com/syphon-org/syphon
+- https://github.com/SongTube/SongTube-App
+- https://github.com/lijy91/biyi
 
 #### Community Architecture Samples
 - https://github.com/gskinnerTeam/flutter-mvcs-hello-world
