@@ -30,8 +30,22 @@ A list of big flutter projects
 - https://github.com/ImranR98/Obtainium
 - https://github.com/GitJournal/GitJournal
 - https://github.com/WorldHealthOrganization/app
+- https://github.com/AppFlowy-IO/AppFlowy
+- https://github.com/janoodleFTW/timy-messenger
+- https://github.com/robertodoering/harpy
+- https://github.com/invoiceninja/admin-portal
+- https://github.com/atsign-foundation/atmosphere_pro
+- https://github.com/atsign-foundation/atmosphere
+- https://github.com/hiddify/hiddify-next
+- https://github.com/saber-notes/saber
+- https://github.com/ReVanced/revanced-manager
+- https://github.com/ente-io/auth
+- https://github.com/simplezhli/flutter_deer
+- https://github.com/cake-tech/cake_wallet
+- https://github.com/dart-lang/dart-pad
 
 #### Community Architecture Samples
 - https://github.com/gskinnerTeam/flutter-mvcs-hello-world
 - https://github.com/mhadaily/flutter-architecture-ddd ✅
-- https://github.com/brianegan/flutter_architecture_samples 
+- https://github.com/brianegan/flutter_architecture_samples
+- https://github.com/mkobuolys/flutter-design-patterns
