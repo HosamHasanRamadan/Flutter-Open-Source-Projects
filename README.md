@@ -48,6 +48,7 @@ A list of big flutter projects
 - https://github.com/syphon-org/syphon
 - https://github.com/SongTube/SongTube-App
 - https://github.com/lijy91/biyi
+- https://github.com/dahliaOS/pangolin_desktop
 
 #### Community Architecture Samples
 - https://github.com/gskinnerTeam/flutter-mvcs-hello-world
