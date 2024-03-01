@@ -51,6 +51,7 @@ A list of big flutter projects
 - https://github.com/dahliaOS/pangolin_desktop
 - https://github.com/rustdesk/rustdesk/tree/master/flutter
 - https://github.com/openfoodfacts/smooth-app
+- https://github.com/ente-io/ente
 
 #### Community Architecture Samples
 - https://github.com/gskinnerTeam/flutter-mvcs-hello-world
