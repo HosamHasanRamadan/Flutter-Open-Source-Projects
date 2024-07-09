@@ -54,6 +54,7 @@ A list of big flutter projects
 - https://github.com/ente-io/ente
 - https://github.com/lichess-org/mobile
 - https://github.com/felangel/flutter_and_friends
+- https://github.com/nextcloud/neon
 
 #### Community Architecture Samples
 - https://github.com/gskinnerTeam/flutter-mvcs-hello-world
